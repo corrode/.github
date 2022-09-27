@@ -1,6 +1,13 @@
 <a href="https://corrode.dev/">
-<img src="banner.svg" alt="Corrode Rust Consulting" />
+<img src="future.svg" alt="Corrode Rust Consulting" />
 </a>
 
-We help customers with Rust projects, big and small.
+We are a German-based consulting company focused on Rust projects.  
+We can help you with:
+
+- Training
+- Code reviews
+- Rust project maintenance
+- Performance optimizations
+
 Reach out for an [intro chat](https://cal.com/corrode).
