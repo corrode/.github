@@ -1,5 +1,5 @@
 <a href="https://corrode.dev/">
-<img src="/profile/future.svg" alt="Corrode Rust Consulting" />
+<img src="/profile/gh-hero.png" alt="Corrode Rust Consulting" />
 </a>
 
 We are a German-based consulting company focused on Rust projects.  
