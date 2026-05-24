@@ -21,12 +21,14 @@ Our workshop training material is open source. Here is a selection:
 
 ### Beginner Workshops
 
+- [A Beginner's Guide To Rust](https://github.com/corrode/course): My interactive course for Rust beginners. **New!** 
 - [Learning Rust By Counting Words](https://github.com/corrode/learning-rust-by-counting-words): We build wc, a little tool that counts words, lines and characters in a file.
 - [Write Yourself A CLI](https://github.com/corrode/write-yourself-a-cli): Your first steps writing a simple, but working Rust CLI application following all the best-practices.
 - [Write Yourself A Web-App](https://github.com/corrode/write-yourself-a-web-app): Write a small weather app, which reads data from an external API and presents it as HTML.
 
 ### Intermediate Workshops
 
+- [Refactoring Rust](https://github.com/corrode/refactoring-rust): A self-directed workshop about turning not-so-great Rust into better Rust. **New!**
 - [Write Yourself Some Tests](https://github.com/corrode/write-yourself-some-tests): Learn how to write effective and ergonomic tests in Rust.
 - [Write Yourself A Shell](https://github.com/corrode/write-yourself-a-shell): Learn how shells work in a playful way by writing one yourself in Rust.
 
